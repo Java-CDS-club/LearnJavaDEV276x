@@ -18,6 +18,7 @@ public class HelloWorld {
         System.out.println("This escape sequence \"creates quotes\"");
         System.out.println("This escape sequence \tmakes a tab indent");
         System.out.println("TESTETSETESTE");
+        System.out.println("ANOTHERALJKWDA");
     }
     public static void printControlFlow(){
         System.out.println("Calling on a method.");
