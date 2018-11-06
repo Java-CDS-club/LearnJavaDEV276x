@@ -1,8 +1,7 @@
 public class HelloWorld {
     //class variables can be used in all methods
-    //LearnJavaDEV276x [Module 1] on Surface
-    //Module-1 [Module 1] on Mac
-    //more tests
+    //LearnJavaDEV276x [Module 1] C:\Users\micro\Documents\GitHub\LearnJavaDEV276x on Surface
+    //LearnJavaDEV276x [Module 1] ~/Documents/GitHub/LearnJavaDEV276x on Mac
     double PI = 3.14;
     int DAYS_IN_A_WEEK = 7;
     String myName = "Michael Lin";
