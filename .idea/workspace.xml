@@ -46,12 +46,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="221">
               <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="300">
+              <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+=======
+            <state relative-caret-position="391">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+>>>>>>> f014551dc97904946b35d4238412b6d8363964a2
+>>>>>>> ae5a1b50dca7da80d9dd2c200c74bb241f5c3183
               <folding>
-                <element signature="method#printEscapeSequences#0;class#HelloWorld#0" />
-                <element signature="method#showJavaDataTypes#0;class#HelloWorld#0" />
-                <element signature="method#usingVariables#0;class#HelloWorld#0" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1259#1260#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +96,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,14 +108,17 @@
             <path>
               <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,10 +175,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -205,12 +219,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="221">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="300">
+          <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+=======
+        <state relative-caret-position="391">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+>>>>>>> f014551dc97904946b35d4238412b6d8363964a2
+>>>>>>> ae5a1b50dca7da80d9dd2c200c74bb241f5c3183
           <folding>
-            <element signature="method#printEscapeSequences#0;class#HelloWorld#0" />
-            <element signature="method#showJavaDataTypes#0;class#HelloWorld#0" />
-            <element signature="method#usingVariables#0;class#HelloWorld#0" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
           </folding>
         </state>
       </provider>
