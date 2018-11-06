@@ -46,8 +46,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="300">
               <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+=======
+            <state relative-caret-position="391">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+>>>>>>> f014551dc97904946b35d4238412b6d8363964a2
               <folding>
                 <element signature="e#1201#1202#0" expanded="true" />
                 <element signature="e#1259#1260#0" expanded="true" />
@@ -112,7 +117,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541513030681" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -209,8 +213,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="300">
           <caret line="20" column="70" lean-forward="true" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+=======
+        <state relative-caret-position="391">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+>>>>>>> f014551dc97904946b35d4238412b6d8363964a2
           <folding>
             <element signature="e#1201#1202#0" expanded="true" />
             <element signature="e#1259#1260#0" expanded="true" />
