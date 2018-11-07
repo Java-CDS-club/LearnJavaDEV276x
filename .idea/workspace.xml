@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
     <list default="true" id="d227f6d6-3ebd-4313-9f03-a7b6ccd7666f" name="Default Changelist" comment="" />
-=======
+    =======
     <list default="true" id="d227f6d6-3ebd-4313-9f03-a7b6ccd7666f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Random/src/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/GradeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Random/src/PhysicsCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/PhysicsCurve.java" afterDir="false" />
     </list>
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d278db656a56df3474fa63097363da007a54974
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +95,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-
         <entry file="file://$PROJECT_DIR$/Random/src/PhysicsCurve.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1173" />
