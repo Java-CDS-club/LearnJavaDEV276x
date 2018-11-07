@@ -99,30 +99,27 @@
 
         <entry file="file://$PROJECT_DIR$/Random/src/PhysicsCurve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-            </state>
+            <state relative-caret-position="1173" />
           </provider>
         </entry>
-              <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
-=======
+        <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        =======
         <entry file="file://$PROJECT_DIR$/src/InteractiveProgramScanner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
+              &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d278db656a56df3474fa63097363da007a54974
             </state>
           </provider>
         </entry>
       </file>
-
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Random/src/GradeCalculator.java">
-        </entry>
+        <entry file="file://$PROJECT_DIR$/Random/src/GradeCalculator.java" />
       </file>
-=======
+      =======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Random/GradeCalculator.java">
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
+          &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d278db656a56df3474fa63097363da007a54974
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -173,10 +170,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="813" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="40" />
+    <option name="width" value="2696" />
+    <option name="height" value="1584" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -223,16 +221,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541577718669" />
-    =======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541580969504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541581748299" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 243f7d0deea1718f847450278cb5e7b295644752
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541581458871" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -330,11 +320,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-=======
+    =======
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d278db656a56df3474fa63097363da007a54974
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -397,7 +386,6 @@
         </state>
       </provider>
     </entry>
-
     <entry file="file://$PROJECT_DIR$/Random/src/PhysicsCurve.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -412,7 +400,7 @@
         </state>
       </provider>
     </entry>
-=======
+    =======
     <entry file="file://$PROJECT_DIR$/src/Random/GradeCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -424,7 +412,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
->>>>>>> 6d278db656a56df3474fa63097363da007a54974
+          &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d278db656a56df3474fa63097363da007a54974
         </state>
       </provider>
     </entry>
