@@ -14,6 +14,7 @@ public class HelloWorld {
         usingVariables();
         usingMathematicalOperations();
         usingStringConcatenations();
+        usingCasting();
         System.out.println(12 / 7 * 4.4 * 2 / 4);
     }
 
@@ -69,9 +70,17 @@ public class HelloWorld {
         //PEMDAS applies
         System.out.println(1 + 2 + "3" + 4 + 5); //results in "3345"
         System.out.println(1 * 2 + "3" + 4 * 5); //results in "2320"
-
-
     }
+    public static void usingCasting(){
+        //casting is explicitly telling java what data type you want something to display
+        //aka you can cast one data type into a different data type (int->double)
+        System.out.println((int)(10/4.0)); //turns 10/4.0=2.5 into 2, an int value
+        System.out.println((int)5.4); //turns 5.4 into 5, an int value
+        System.out.println((double)(10/4)); //turns 10/4=2 into 2.5, a double value
+        System.out.println((double)5); //turns 5 into 5.0, a double value
+    }
+
+    //MODULE 1 | INTERACTIVE PROGRAMS
 
 
 }
