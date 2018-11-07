@@ -92,16 +92,45 @@
         <entry file="file://$PROJECT_DIR$/Random/src/PhysicsCurve.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1173">
+            </state>
               <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+>>>>>>> 6d278db656a56df3474fa63097363da007a54974
+            </state>
+          </provider>
+        </entry>
+      </file>
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Random/src/GradeCalculator.java">
+        </entry>
+      </file>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Random/GradeCalculator.java">
+>>>>>>> 6d278db656a56df3474fa63097363da007a54974
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3404">
+              <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Random/src/GradeCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/Random/PhysicsCurve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,6 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,33 +185,41 @@
             <path>
               <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
-              <item name="Random" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
               <item name="Random" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJavaDEV276x" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaDEV276x" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Random" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541577718669" />
     =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541580969504" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     &gt;&gt;&gt;&gt;&gt;&gt;&gt; 243f7d0deea1718f847450278cb5e7b295644752
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541581458871" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+>>>>>>> 6d278db656a56df3474fa63097363da007a54974
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -196,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhysicsCurve">
+  <component name="RunManager" selected="Application.PhysicsCurve (1)">
     <configuration name="GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GradeCalculator" />
       <module name="Module 1" />
@@ -218,6 +257,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhysicsCurve (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.PhysicsCurve" />
+      <module name="Module 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhysicsCurve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PhysicsCurve" />
       <module name="Random" />
@@ -230,9 +282,11 @@
       <item itemvalue="Application.InteractiveProgramScanner" />
       <item itemvalue="Application.GradeCalculator" />
       <item itemvalue="Application.PhysicsCurve" />
+      <item itemvalue="Application.PhysicsCurve (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhysicsCurve (1)" />
         <item itemvalue="Application.PhysicsCurve" />
         <item itemvalue="Application.GradeCalculator" />
         <item itemvalue="Application.InteractiveProgramScanner" />
@@ -263,10 +317,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+=======
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+>>>>>>> 6d278db656a56df3474fa63097363da007a54974
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -275,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2453581" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2884882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,14 +356,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/GradeCalc.java" />
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="998">
-          <caret line="287" column="16" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
+        <state relative-caret-position="331">
+          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding>
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GradeCalc.java" />
+    <entry file="file://$PROJECT_DIR$/src/Random/GradeCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/Random/src/PhysicsGrade.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3404">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InteractiveProgramScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -313,31 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GradeCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random/src/PhysicsGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+
     <entry file="file://$PROJECT_DIR$/Random/src/PhysicsCurve.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -349,6 +396,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/src/Random/GradeCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Random/PhysicsCurve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+>>>>>>> 6d278db656a56df3474fa63097363da007a54974
         </state>
       </provider>
     </entry>
