@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Module1JavaBasics {
     //LearnJavaDEV276x [Module 1] C:\Users\micro\Documents\GitHub\LearnJavaDEV276x on Surface
     //LearnJavaDEV276x [Module 1] ~/Documents/GitHub/LearnJavaDEV276x on Mac
     //class variables can be used in all methods, but they must be started using "public static final"
@@ -16,6 +16,10 @@ public class HelloWorld {
         usingStringConcatenations();
         usingCasting();
         System.out.println(12 / 7 * 4.4 * 2 / 4);
+        System.out.print("Test");
+        System.out.println("Test");
+        System.out.println("Test");
+        System.out.print("test");
     }
 
     //MODULE 1 | BASIC JAVA COMMANDS
